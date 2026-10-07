@@ -1,10 +1,12 @@
 # 🌧️ Ambio Lite
 
+### Inspired by the Android app [**Ambio** by jaimebg](https://github.com/jaimebg/Ambio).
+
 A calm, minimal **ambient-sound focus timer** that runs in the browser and installs on your phone as an app.
-Mix up to three looping sounds, start a 25-minute session, and get to work.
+Mix up to three looping sounds, start a 25-minute session.
 
 Built with plain **HTML, CSS and JavaScript**: no frameworks, no build step, no dependencies.
-Inspired heavily on the Android app [**Ambio** by jaimebg](https://github.com/jaimebg/Ambio).
+
 
 <!-- Replace with your GitHub Pages URL after deploying -->
 **▶ Live demo:** `https://Pikksel.github.io/ambio-lite/`
@@ -26,10 +28,9 @@ Inspired heavily on the Android app [**Ambio** by jaimebg](https://github.com/ja
 2. Tap the **⋮** menu → **Install app** / **Add to Home screen**.
 3. Launch *Ambio Lite* from your home screen. It now works without internet.
 
-## 💻 Run locally
+## 💻 Run locally on PC
 
 Just double-click `index.html`.
-
 
 ## 🗂️ Project structure
 
