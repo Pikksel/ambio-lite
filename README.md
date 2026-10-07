@@ -2,13 +2,14 @@
 
 ### Inspired by the Android app [**Ambio** by jaimebg](https://github.com/jaimebg/Ambio).
 
+
 A calm, minimal **ambient-sound focus timer** that runs in the browser and installs on your phone as an app.
 Mix up to three looping sounds, start a 25-minute session.
 
 Built with plain **HTML, CSS and JavaScript**: no frameworks, no build step, no dependencies.
 
+Tools used: VS Code and Claude Code
 
-<!-- Replace with your GitHub Pages URL after deploying -->
 **▶ Live demo:** `https://Pikksel.github.io/ambio-lite/`
 
 ---
@@ -79,7 +80,7 @@ No code from the original Ambio is used; this is an independent re-implementatio
 | Café | Freesound [#625112](https://freesound.org/s/625112/) by sonically_sound, CC0 |
 | Wind | Freesound [#521736](https://freesound.org/s/521736/) by Fission9, CC0 |
 | Brown noise | Generated from a fixed seed; public domain |
-| Rain, Ocean, Forest, Fireplace, Timer chime | CC0 / public domain; upstream source not recorded by Ambio |
+| Rain, Ocean, Forest, Fireplace, Timer chime | CC0 / public domain; upstream source not recorded by Ambio
 
-Thanks to the Freesound community for sharing their recordings.
+Readme-draft made with Claude.
 
