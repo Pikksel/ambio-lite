@@ -7,7 +7,7 @@ Built with plain **HTML, CSS and JavaScript**: no frameworks, no build step, no 
 Inspired heavily on the Android app [**Ambio** by jaimebg](https://github.com/jaimebg/Ambio).
 
 <!-- Replace with your GitHub Pages URL after deploying -->
-**▶ Live demo:** `https://Pikksel.github.io/ambio-lite/`
+**▶ Live demo:** `https://Pikksel.github.io/Ambio-Lite/`
 
 ---
 
